@@ -9,7 +9,7 @@
   "dependencies": {
     "chai": "4.2.0",
     "express": "^4.17.1",
-    "mocha": "6.2.1"
+    "mocha": "6.2.3"
   },
   "author": "Adrian Sadowski"
 }

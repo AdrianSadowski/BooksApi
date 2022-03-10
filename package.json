@@ -7,6 +7,7 @@
     "test": "mocha --watch \"./{,!(node_modules|client)/**/}*.test.js\""
   },
   "dependencies": {
+
     "chai": "4.3.4",
     "express": "^4.17.1",
     "mocha": "6.2.1"
